@@ -76,8 +76,6 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    border: none;
-    padding: 12px 24px;
     margin: 20px auto;
     display: block;
   }
@@ -127,25 +125,18 @@ body {
   .team ul,
   .portfolio ul {
     display: grid;
-    gap: 24px;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     margin-top: 40px;
   }
   
   .team {
     background-color: #f4f4fd;
-    padding: 60px 0;
-  }
-  
-  .portfolio {
-    padding: 60px 0;
   }
   
   /* === Футер === */
   .footer {
     background-color: #2e2f42;
     text-align: center;
-    padding: 40px 20px;
   }
   
   .footer .logo .studio {
