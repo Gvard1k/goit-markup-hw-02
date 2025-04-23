@@ -5,10 +5,6 @@ body {
     background-color: #FFFFFF;
   }
   
-  ul {
-    list-style: none;
-  }
-  
 
   .logo {
     font-family: "Raleway", sans-serif;
@@ -26,7 +22,7 @@ body {
   }
   
   
-  .section-title {
+  .section-portfolio {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -34,7 +30,7 @@ body {
     color: #2e2f42;
   }
   
-  .adv-title {
+  .adv-portfolio {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -43,7 +39,7 @@ body {
   }
   
   
-  .adv-text,
+  .portfolio-text,
   .footer-text {
     font-size: 16px;
     line-height: 1.5;
