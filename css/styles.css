@@ -46,10 +46,13 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
-  
+   :root{
+   --color-footer: #F4F4FD;
+   }
   .footer-text {
     color: var(--color-footer);
   }
+
   
   .hero-section {
     background-color: #2e2f42;
